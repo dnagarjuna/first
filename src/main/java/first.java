@@ -1,4 +1,4 @@
-public class first
+public class myfirstmaven
 {
 public static void main(String args[])
 {
